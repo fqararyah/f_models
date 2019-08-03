@@ -1,0 +1,5 @@
+*.json
+*.dot
+*.gz
+*.tar
+*.tar.gz
